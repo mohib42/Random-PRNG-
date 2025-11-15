@@ -10,7 +10,7 @@ This directory contains the following files:
 * `TestRandomGenerator.java`: An example class demonstrating how to call the methods in `NovelRandomGenerator`.
 * `README.md`: This file, providing documentation, usage instructions, and mathematical details.
 
-## 🚀 How to Compile and Run
+##  How to Compile and Run
 
 You can compile and run this project from any terminal:
 
@@ -29,7 +29,7 @@ You can compile and run this project from any terminal:
     java TestRandomGenerator
     ```
 
-## 📖 API Reference (How to Use)
+##  API Reference (How to Use)
 
 All methods in `NovelRandomGenerator` are **static**. You do not need to create an object. You can call them directly using the class name.
 
@@ -71,7 +71,7 @@ int myRandomNum = NovelRandomGenerator.generateInt(1, 100);
 
 ---
 
-## 🔬 Mathematical Details: The "Novel Algorithm"
+##  Mathematical Details: The "Novel Algorithm"
 
 The algorithm implemented in this class is a **Linear Congruential Generator (LCG)**. This is a classic and one of the simplest algorithms for generating a sequence of pseudo-random numbers.
 
